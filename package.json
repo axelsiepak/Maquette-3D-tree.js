@@ -1,6 +1,10 @@
 {
   "name": "three-demo",
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "a 3d scroll page demo using ThreeJS.org",
+  "author": "ImArboks",
+  "repository": "https://github.com/axelsiepak/Maquette-3D-tree.js",
+  "homepage": "",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
